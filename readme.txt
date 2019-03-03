@@ -8,5 +8,3 @@ good
 <<<<<<< HEAD
 so nice
 =======
-
->>>>>>> nice
